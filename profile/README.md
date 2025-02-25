@@ -7,7 +7,8 @@ In today’s digital age, online tools are essential for improving productivity,
 
 Enhance the quality of your content with powerful Text Analysis Tools. Whether you're looking to check readability, analyze keyword density, detect plagiarism, or assess sentiment, these free tools can refine and optimize your writing.
 
-[### Key Features:
+### [Key Features:](https://multiculturaltoolbox.com/)
+
 - **Plagiarism Checker**: Ensure your content is original and avoid penalties for duplicate content.
 - **Readability Checker**: Improve the clarity of your writing by analyzing the readability scores.
 - **Keyword Density Analyzer**: Optimize your content for SEO by balancing keyword usage.
